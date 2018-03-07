@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "library(shiny)\nlibrary(dygraphs)\nlibrary(xts)\nlibrary(dplyr)\nlibrary(tidyr)\nlibrary(reshape2)\nsetwd(\"E:/DATA SCIENCE/credihealth/graph data\")\nspeciality_wise<-read.csv(\"speciality_wise.csv\")\ncity_wise<-read.csv(\"city_wise.csv\")\nspeciality_wise[is.na(speciality_wise)]<-0\ncity_wise[is.na(city_wise)]<-0\ndf1<-melt(speciality_wise,id.vars = c(\"Date\",\"Speciality\",\"Category\"))\ndf2<-melt(city_wise,id.vars = c(\"Date\",\"City_Name\",\"Category\"))\ndf1$Date<-as.Date(df1$Date, format=\"%m/%d/%Y\")\ndf2$Date<-as.Date(df2$Date, format=\"%m/%d/%Y\")\n\n\nshinyUI(\n  pageWithSidebar(\n    \n    titlePanel(div(h4(\"TREND GRAPH FOR REQUEST, BOOKING, OPD AND IPD IN DIFFERENT MONTH\", align = \"center\"), style = \"color:red\"),windowTitle = \"Request Analysis\"),\n\n    sidebarPanel(\n      h4(div(\"SPECIALITY_WISE PLOT\",style=\"color:blue\")),\n      selectInput(\"Speciality\",\"1. Please select a Speciality:\",choices = levels(df1$Speciality),selected = \"Renal Sciences\"),\n      radioButtons(\"Type\",\"2. Please select a Type:\",choices = levels(df1$Category),selected = \"Domestic\"),\n      br(),\n      br(),\n      br(),\n      br(),\n      br(),\n      br(),\n      br(),\n      br(),\n      h4(div(\"CITY_WISE PLOT\",style=\"color:blue\")),\n      selectInput(\"City\",\"1. Please select a City:\",choices = levels(df2$City_Name),selected = \"Mumbai\"),\n      radioButtons(\"Category\",\"2. Please select a Type:\",choices = levels(df2$Category),selected = \"International\")\n    \n      ),\n    mainPanel(\n       \n       h4(dygraphOutput(\"dygraph\",height = 200)),\n       br(),\n       br(),\n       br(),\n       br(),\n       br(),\n       h4(dygraphOutput(\"dygraph2\",height = 200))    \n       )\n)\n)",
+    "created" : 1520419635799.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "1964701480",
+    "id" : "C597A9CC",
+    "lastKnownWriteTime" : 1520419360,
+    "last_content_update" : 1520419360,
+    "path" : "E:/DATA SCIENCE/credihealth/graph data/App2/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

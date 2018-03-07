@@ -1,0 +1,661 @@
+Date,Speciality,Category,Request,Booking,OPD,IPD
+11/26/2017,Oncological sciences,Domestic,197,161,96,73
+11/26/2017,Cardiac Sciences,Domestic,422,308,183,61
+11/26/2017,Gastroenterology and hepatology,Domestic,375,283,122,15
+11/26/2017,Neurosciences,Domestic,467,399,158,11
+11/26/2017,Renal Sciences,Domestic,215,195,97,13
+11/26/2017,Obstetrics and Gynaecology & IVF,Domestic,160,130,67,8
+11/26/2017,General & Laparoscopic Surgery,Domestic,66,60,41,9
+11/26/2017,Orthopedics,Domestic,142,114,49,6
+11/26/2017,ENT and Head & Neck Surgery,Domestic,104,71,36,3
+11/26/2017,Internal Medicine,Domestic,78,61,23,3
+11/26/2017,Organ transplantation,Domestic,40,26,10,2
+11/26/2017,Pulmonology,Domestic,71,74,30,3
+11/26/2017,Radiology,Domestic,5,1,1,1
+11/26/2017,Ophthalmology,Domestic,17,15,3,1
+11/26/2017,Pediatrics,Domestic,42,33,20,1
+11/26/2017,Endocrinology,Domestic,62,75,33,
+11/26/2017,Rheumatology,Domestic,46,27,10,
+11/26/2017,Plastic Surgery,Domestic,14,10,5,
+11/26/2017,Reproductive sciences,Domestic,1,,,
+11/26/2017,Pathology,Domestic,,,,
+11/26/2017,Robotic Surgery,Domestic,2,2,2,
+11/26/2017,Others,Domestic,676,89,34,2
+12/3/2017,Oncological sciences,Domestic,198,149,85,60
+12/3/2017,Cardiac Sciences,Domestic,404,320,208,68
+12/3/2017,Gastroenterology and hepatology,Domestic,349,309,143,14
+12/3/2017,Neurosciences,Domestic,494,391,179,15
+12/3/2017,Renal Sciences,Domestic,237,184,90,6
+12/3/2017,Obstetrics and Gynaecology & IVF,Domestic,184,140,68,10
+12/3/2017,General & Laparoscopic Surgery,Domestic,60,45,20,10
+12/3/2017,Orthopedics,Domestic,196,147,66,11
+12/3/2017,ENT and Head & Neck Surgery,Domestic,94,87,43,2
+12/3/2017,Internal Medicine,Domestic,119,79,43,3
+12/3/2017,Organ transplantation,Domestic,31,23,8,6
+12/3/2017,Pulmonology,Domestic,81,61,26,
+12/3/2017,Radiology,Domestic,4,1,,1
+12/3/2017,Ophthalmology,Domestic,16,12,5,
+12/3/2017,Pediatrics,Domestic,40,29,14,4
+12/3/2017,Endocrinology,Domestic,66,46,24,
+12/3/2017,Rheumatology,Domestic,30,35,14,3
+12/3/2017,Plastic Surgery,Domestic,18,7,3,1
+12/3/2017,Reproductive sciences,Domestic,1,1,,
+12/3/2017,Pathology,Domestic,,,,
+12/3/2017,Robotic Surgery,Domestic,,,,
+12/3/2017,Others,Domestic,780,141,100,
+12/10/2017,Oncological sciences,Domestic,156,131,67,82
+12/10/2017,Cardiac Sciences,Domestic,422,349,191,52
+12/10/2017,Gastroenterology and hepatology,Domestic,325,228,105,16
+12/10/2017,Neurosciences,Domestic,481,339,146,15
+12/10/2017,Renal Sciences,Domestic,238,169,88,11
+12/10/2017,Obstetrics and Gynaecology & IVF,Domestic,169,140,57,13
+12/10/2017,General & Laparoscopic Surgery,Domestic,60,58,34,4
+12/10/2017,Orthopedics,Domestic,157,119,60,4
+12/10/2017,ENT and Head & Neck Surgery,Domestic,77,58,24,3
+12/10/2017,Internal Medicine,Domestic,111,92,45,5
+12/10/2017,Organ transplantation,Domestic,37,23,14,10
+12/10/2017,Pulmonology,Domestic,82,55,22,1
+12/10/2017,Radiology,Domestic,10,2,,
+12/10/2017,Ophthalmology,Domestic,18,8,5,2
+12/10/2017,Pediatrics,Domestic,40,33,12,
+12/10/2017,Endocrinology,Domestic,66,57,25,
+12/10/2017,Rheumatology,Domestic,43,30,13,
+12/10/2017,Plastic Surgery,Domestic,18,13,8,1
+12/10/2017,Reproductive sciences,Domestic,,1,,
+12/10/2017,Pathology,Domestic,1,1,1,
+12/10/2017,Robotic Surgery,Domestic,,,,
+12/10/2017,Others,Domestic,857,129,93,2
+12/17/2017,Oncological sciences,Domestic,185,141,85,78
+12/17/2017,Cardiac Sciences,Domestic,437,360,212,69
+12/17/2017,Gastroenterology and hepatology,Domestic,346,284,134,11
+12/17/2017,Neurosciences,Domestic,577,464,220,9
+12/17/2017,Renal Sciences,Domestic,232,198,95,12
+12/17/2017,Obstetrics and Gynaecology & IVF,Domestic,153,139,62,13
+12/17/2017,General & Laparoscopic Surgery,Domestic,71,58,24,12
+12/17/2017,Orthopedics,Domestic,185,147,64,8
+12/17/2017,ENT and Head & Neck Surgery,Domestic,78,63,25,3
+12/17/2017,Internal Medicine,Domestic,123,102,31,2
+12/17/2017,Organ transplantation,Domestic,867,24,15,2
+12/17/2017,Pulmonology,Domestic,75,78,31,5
+12/17/2017,Radiology,Domestic,4,4,2,
+12/17/2017,Ophthalmology,Domestic,28,18,8,
+12/17/2017,Pediatrics,Domestic,44,35,11,
+12/17/2017,Endocrinology,Domestic,65,48,23,
+12/17/2017,Rheumatology,Domestic,45,34,16,1
+12/17/2017,Plastic Surgery,Domestic,15,13,3,1
+12/17/2017,Reproductive sciences,Domestic,1,1,,
+12/17/2017,Pathology,Domestic,2,1,1,
+12/17/2017,Robotic Surgery,Domestic,,,,
+12/17/2017,Others,Domestic,59,105,44,3
+12/24/2017,Oncological sciences,Domestic,196,167,78,53
+12/24/2017,Cardiac Sciences,Domestic,460,314,130,29
+12/24/2017,Gastroenterology and hepatology,Domestic,347,281,104,8
+12/24/2017,Neurosciences,Domestic,523,390,140,13
+12/24/2017,Renal Sciences,Domestic,238,168,80,10
+12/24/2017,Obstetrics and Gynaecology & IVF,Domestic,176,146,67,3
+12/24/2017,General & Laparoscopic Surgery,Domestic,52,40,19,12
+12/24/2017,Orthopedics,Domestic,199,146,57,4
+12/24/2017,ENT and Head & Neck Surgery,Domestic,70,43,19,3
+12/24/2017,Internal Medicine,Domestic,123,78,29,9
+12/24/2017,Organ transplantation,Domestic,34,24,8,7
+12/24/2017,Pulmonology,Domestic,96,81,30,3
+12/24/2017,Radiology,Domestic,4,4,1,
+12/24/2017,Ophthalmology,Domestic,22,11,3,
+12/24/2017,Pediatrics,Domestic,43,37,14,1
+12/24/2017,Endocrinology,Domestic,67,59,25,1
+12/24/2017,Rheumatology,Domestic,50,27,8,
+12/24/2017,Plastic Surgery,Domestic,10,13,3,
+12/24/2017,Reproductive sciences,Domestic,1,1,1,
+12/24/2017,Pathology,Domestic,,,,
+12/24/2017,Robotic Surgery,Domestic,1,,,
+12/24/2017,Others,Domestic,974,120,51,3
+12/31/2017,Oncological sciences,Domestic,193,135,55,51
+12/31/2017,Cardiac Sciences,Domestic,407,343,133,31
+12/31/2017,Gastroenterology and hepatology,Domestic,282,225,66,5
+12/31/2017,Neurosciences,Domestic,459,391,124,8
+12/31/2017,Renal Sciences,Domestic,226,194,60,8
+12/31/2017,Obstetrics and Gynaecology & IVF,Domestic,165,140,51,8
+12/31/2017,General & Laparoscopic Surgery,Domestic,73,36,22,4
+12/31/2017,Orthopedics,Domestic,159,120,37,3
+12/31/2017,ENT and Head & Neck Surgery,Domestic,90,71,24,1
+12/31/2017,Internal Medicine,Domestic,100,67,23,3
+12/31/2017,Organ transplantation,Domestic,43,25,13,2
+12/31/2017,Pulmonology,Domestic,75,57,15,1
+12/31/2017,Radiology,Domestic,3,,1,
+12/31/2017,Ophthalmology,Domestic,23,26,3,1
+12/31/2017,Pediatrics,Domestic,46,32,12,
+12/31/2017,Endocrinology,Domestic,66,65,21,
+12/31/2017,Rheumatology,Domestic,40,47,13,
+12/31/2017,Plastic Surgery,Domestic,11,3,1,1
+12/31/2017,Reproductive sciences,Domestic,2,,,
+12/31/2017,Pathology,Domestic,,,,
+12/31/2017,Robotic Surgery,Domestic,1,,,
+12/31/2017,Others,Domestic,690,196,19,8
+1/7/2018,Oncological sciences,Domestic,166,129,58,60
+1/7/2018,Cardiac Sciences,Domestic,434,376,146,29
+1/7/2018,Gastroenterology and hepatology,Domestic,347,265,87,6
+1/7/2018,Neurosciences,Domestic,492,408,112,3
+1/7/2018,Renal Sciences,Domestic,243,201,70,6
+1/7/2018,Obstetrics and Gynaecology & IVF,Domestic,166,134,47,7
+1/7/2018,General & Laparoscopic Surgery,Domestic,46,45,21,5
+1/7/2018,Orthopedics,Domestic,184,163,51,4
+1/7/2018,ENT and Head & Neck Surgery,Domestic,77,76,29,1
+1/7/2018,Internal Medicine,Domestic,83,68,20,4
+1/7/2018,Organ transplantation,Domestic,19,17,7,3
+1/7/2018,Pulmonology,Domestic,91,65,25,1
+1/7/2018,Radiology,Domestic,1,,1,
+1/7/2018,Ophthalmology,Domestic,25,18,6,
+1/7/2018,Pediatrics,Domestic,40,48,18,
+1/7/2018,Endocrinology,Domestic,76,47,24,
+1/7/2018,Rheumatology,Domestic,49,32,5,
+1/7/2018,Plastic Surgery,Domestic,11,8,,
+1/7/2018,Reproductive sciences,Domestic,2,,,
+1/7/2018,Pathology,Domestic,2,,,
+1/7/2018,Robotic Surgery,Domestic,1,,,
+1/7/2018,Others,Domestic,962,120,30,3
+1/14/2018,Oncological sciences,Domestic,141,130,36,52
+1/14/2018,Cardiac Sciences,Domestic,595,415,146,29
+1/14/2018,Gastroenterology and hepatology,Domestic,335,282,66,12
+1/14/2018,Neurosciences,Domestic,571,465,109,7
+1/14/2018,Renal Sciences,Domestic,213,165,46,3
+1/14/2018,Obstetrics and Gynaecology & IVF,Domestic,191,168,34,2
+1/14/2018,General & Laparoscopic Surgery,Domestic,60,48,20,3
+1/14/2018,Orthopedics,Domestic,235,172,44,4
+1/14/2018,ENT and Head & Neck Surgery,Domestic,98,85,21, 
+1/14/2018,Internal Medicine,Domestic,84,86,18,1
+1/14/2018,Organ transplantation,Domestic,30,25,3,3
+1/14/2018,Pulmonology,Domestic,66,64,14,1
+1/14/2018,Radiology,Domestic,5,4,1, 
+1/14/2018,Ophthalmology,Domestic,23,21,5,2
+1/14/2018,Pediatrics,Domestic,31,31,7,1
+1/14/2018,Endocrinology,Domestic,73,57,7, 
+1/14/2018,Rheumatology,Domestic,32,28,4, 
+1/14/2018,Plastic Surgery,Domestic,12,8,2,1
+1/14/2018,Reproductive sciences,Domestic,,,,
+1/14/2018,Pathology,Domestic,1,1,,
+1/14/2018,Robotic Surgery,Domestic, ,1,1, 
+1/14/2018,Others,Domestic,899,100,21,4
+1/21/2018,Oncological sciences,Domestic,156,123,26,49
+1/21/2018,Cardiac Sciences,Domestic,647,417,141,28
+1/21/2018,Gastroenterology and hepatology,Domestic,249,214,47,5
+1/21/2018,Neurosciences,Domestic,540,435,82,9
+1/21/2018,Renal Sciences,Domestic,246,171,37,2
+1/21/2018,Obstetrics and Gynaecology & IVF,Domestic,212,159,35,4
+1/21/2018,General & Laparoscopic Surgery,Domestic,74,49,11,4
+1/21/2018,Orthopedics,Domestic,183,157,32,3
+1/21/2018,ENT and Head & Neck Surgery,Domestic,66,60,17,6
+1/21/2018,Internal Medicine,Domestic,127,86,25,1
+1/21/2018,Organ transplantation,Domestic,68,22,8,2
+1/21/2018,Pulmonology,Domestic,84,71,13,1
+1/21/2018,Radiology,Domestic,9,4,1, 
+1/21/2018,Ophthalmology,Domestic,20,18,6,1
+1/21/2018,Pediatrics,Domestic,47,32,11, 
+1/21/2018,Endocrinology,Domestic,66,43,15,
+1/21/2018,Rheumatology,Domestic,33,27,10,2
+1/21/2018,Plastic Surgery,Domestic,9,8,3,1
+1/21/2018,Reproductive sciences,Domestic,,1,,
+1/21/2018,Pathology,Domestic,,2,1,
+1/21/2018,Robotic Surgery,Domestic,,,,
+1/21/2018,Others,Domestic,1874,135,16,3
+1/28/2018,Oncological sciences,Domestic,154,133,46,57
+1/28/2018,Cardiac Sciences,Domestic,685,560,209,39
+1/28/2018,Gastroenterology and hepatology,Domestic,286,266,94,5
+1/28/2018,Neurosciences,Domestic,510,392,136,13
+1/28/2018,Renal Sciences,Domestic,194,191,77,7
+1/28/2018,Obstetrics and Gynaecology & IVF,Domestic,168,163,52,7
+1/28/2018,General & Laparoscopic Surgery,Domestic,58,58,20,5
+1/28/2018,Orthopedics,Domestic,218,199,59,7
+1/28/2018,ENT and Head & Neck Surgery,Domestic,96,79,19, 
+1/28/2018,Internal Medicine,Domestic,107,89,24,2
+1/28/2018,Organ transplantation,Domestic,47,26,11,7
+1/28/2018,Pulmonology,Domestic,84,75,21,3
+1/28/2018,Radiology,Domestic,7,7,3,1
+1/28/2018,Ophthalmology,Domestic,18,13,3,1
+1/28/2018,Pediatrics,Domestic,36,38,12,1
+1/28/2018,Endocrinology,Domestic,62,49,12,
+1/28/2018,Rheumatology,Domestic,54,33,11,
+1/28/2018,Plastic Surgery,Domestic,14,8,1,
+1/28/2018,Reproductive sciences,Domestic,1,1,,
+1/28/2018,Pathology,Domestic,1,2,1,
+1/28/2018,Robotic Surgery,Domestic,,,,
+1/28/2018,Others,Domestic,1147,140,25,4
+2/4/2018,Oncological sciences,Domestic,218,171,55,40
+2/4/2018,Cardiac Sciences,Domestic,704,530,179,51
+2/4/2018,Gastroenterology and hepatology,Domestic,330,268,75,5
+2/4/2018,Neurosciences,Domestic,558,461,92,7
+2/4/2018,Renal Sciences,Domestic,259,197,52,4
+2/4/2018,Obstetrics and Gynaecology & IVF,Domestic,162,151,35,7
+2/4/2018,General & Laparoscopic Surgery,Domestic,71,59,17,7
+2/4/2018,Orthopedics,Domestic,202,178,54,4
+2/4/2018,ENT and Head & Neck Surgery,Domestic,118,96,26,4
+2/4/2018,Internal Medicine,Domestic,127,103,28,1
+2/4/2018,Organ transplantation,Domestic,46,32,7,2
+2/4/2018,Pulmonology,Domestic,91,80,23,5
+2/4/2018,Radiology,Domestic,7,3, ,
+2/4/2018,Ophthalmology,Domestic,26,18,4,
+2/4/2018,Pediatrics,Domestic,39,34,11,
+2/4/2018,Endocrinology,Domestic,73,64,14,1
+2/4/2018,Rheumatology,Domestic,58,58,15,
+2/4/2018,Plastic Surgery,Domestic,16,18,4,
+2/4/2018,Reproductive sciences,Domestic,,,,
+2/4/2018,Pathology,Domestic,,,,
+2/4/2018,Robotic Surgery,Domestic,,,,
+2/4/2018,Others,Domestic,1130,133,27,7
+2/11/2018,Oncological sciences,Domestic,187,152,64,63
+2/11/2018,Cardiac Sciences,Domestic,764,532,265,56
+2/11/2018,Gastroenterology and hepatology,Domestic,343,288,114,12
+2/11/2018,Neurosciences,Domestic,518,411,114,7
+2/11/2018,Renal Sciences,Domestic,215,182,63,7
+2/11/2018,Obstetrics and Gynaecology & IVF,Domestic,144,138,53,9
+2/11/2018,General & Laparoscopic Surgery,Domestic,61,46,14,7
+2/11/2018,Orthopedics,Domestic,194,154,57,9
+2/11/2018,ENT and Head & Neck Surgery,Domestic,104,85,28,2
+2/11/2018,Internal Medicine,Domestic,110,86,30,3
+2/11/2018,Organ transplantation,Domestic,35,34,16,3
+2/11/2018,Pulmonology,Domestic,79,66,24,
+2/11/2018,Radiology,Domestic,4,4,1,
+2/11/2018,Ophthalmology,Domestic,15,14,8,
+2/11/2018,Pediatrics,Domestic,39,34,9,2
+2/11/2018,Endocrinology,Domestic,71,63,23,
+2/11/2018,Rheumatology,Domestic,41,33,11,
+2/11/2018,Plastic Surgery,Domestic,12,7,3,
+2/11/2018,Reproductive sciences,Domestic, , ,,
+2/11/2018,Pathology,Domestic,2,1,,
+2/11/2018,Robotic Surgery,Domestic, , ,,
+2/11/2018,Others,Domestic,1069,128,38,5
+2/18/2018,Oncological sciences,Domestic,201,143,61,46
+2/18/2018,Cardiac Sciences,Domestic,859,583,254,57
+2/18/2018,Gastroenterology and hepatology,Domestic,418,272,88,8
+2/18/2018,Neurosciences,Domestic,595,470,128,11
+2/18/2018,Renal Sciences,Domestic,257,186,62,11
+2/18/2018,Obstetrics and Gynaecology & IVF,Domestic,161,128,42,8
+2/18/2018,General & Laparoscopic Surgery,Domestic,83,53,9,5
+2/18/2018,Orthopedics,Domestic,214,169,55,5
+2/18/2018,ENT and Head & Neck Surgery,Domestic,103,91,24,2
+2/18/2018,Internal Medicine,Domestic,123,100,29,2
+2/18/2018,Organ transplantation,Domestic,40,34,6,5
+2/18/2018,Pulmonology,Domestic,94,73,16,4
+2/18/2018,Radiology,Domestic,8,4,1,
+2/18/2018,Ophthalmology,Domestic,27,19,4,
+2/18/2018,Pediatrics,Domestic,35,26,5,
+2/18/2018,Endocrinology,Domestic,91,67,18,
+2/18/2018,Rheumatology,Domestic,55,46,13,1
+2/18/2018,Plastic Surgery,Domestic,7,6,3,1
+2/18/2018,Reproductive sciences,Domestic, , , ,
+2/18/2018,Pathology,Domestic, , , ,
+2/18/2018,Robotic Surgery,Domestic,2, , ,
+2/18/2018,Others,Domestic,1150,160,22,
+2/25/2018,Oncological sciences,Domestic,181,184,45,32
+2/25/2018,Cardiac Sciences,Domestic,912,545,191,45
+2/25/2018,Gastroenterology and hepatology,Domestic,377,300,65,8
+2/25/2018,Neurosciences,Domestic,558,401,94,14
+2/25/2018,Renal Sciences,Domestic,246,198,60,5
+2/25/2018,Obstetrics and Gynaecology & IVF,Domestic,155,119,40,8
+2/25/2018,General & Laparoscopic Surgery,Domestic,78,57,11,4
+2/25/2018,Orthopedics,Domestic,218,158,43,3
+2/25/2018,ENT and Head & Neck Surgery,Domestic,124,90,28,4
+2/25/2018,Internal Medicine,Domestic,151,111,26,2
+2/25/2018,Organ transplantation,Domestic,26,29,8,2
+2/25/2018,Pulmonology,Domestic,114,88,23,3
+2/25/2018,Radiology,Domestic,8,7,,
+2/25/2018,Ophthalmology,Domestic,30,23,7, 
+2/25/2018,Pediatrics,Domestic,60,45,13,1
+2/25/2018,Endocrinology,Domestic,105,68,17, 
+2/25/2018,Rheumatology,Domestic,47,40,12, 
+2/25/2018,Plastic Surgery,Domestic,16,11,1,1
+2/25/2018,Reproductive sciences,Domestic,1,,,
+2/25/2018,Pathology,Domestic,1,,,
+2/25/2018,Robotic Surgery,Domestic, ,,,
+2/25/2018,Others,Domestic,1045,109,21, 
+3/4/2018,Oncological sciences,Domestic,218,165,59,59
+3/4/2018,Cardiac Sciences,Domestic,1011,650,223,57
+3/4/2018,Gastroenterology and hepatology,Domestic,437,325,92,15
+3/4/2018,Neurosciences,Domestic,673,533,136,11
+3/4/2018,Renal Sciences,Domestic,274,239,76,13
+3/4/2018,Obstetrics and Gynaecology & IVF,Domestic,186,149,44,4
+3/4/2018,General & Laparoscopic Surgery,Domestic,75,61,18,5
+3/4/2018,Orthopedics,Domestic,279,216,57,7
+3/4/2018,ENT and Head & Neck Surgery,Domestic,126,106,40,4
+3/4/2018,Internal Medicine,Domestic,154,119,49,3
+3/4/2018,Organ transplantation,Domestic,30,20,8,5
+3/4/2018,Pulmonology,Domestic,109,80,21,4
+3/4/2018,Radiology,Domestic,3,6,1, 
+3/4/2018,Ophthalmology,Domestic,25,19,8, 
+3/4/2018,Pediatrics,Domestic,46,42,10,2
+3/4/2018,Endocrinology,Domestic,101,84,27, 
+3/4/2018,Rheumatology,Domestic,72,55,21,1
+3/4/2018,Plastic Surgery,Domestic,19,18,4,2
+3/4/2018,Reproductive sciences,Domestic, ,1, , 
+3/4/2018,Pathology,Domestic, ,1, , 
+3/4/2018,Robotic Surgery,Domestic, , ,, 
+3/4/2018,Others,Domestic,1167,168,61,1
+11/26/2017,Oncological sciences,International,20,12,4,
+11/26/2017,Cardiac Sciences,International,71,23,16,1
+11/26/2017,Gastroenterology and hepatology,International,27,10,2,
+11/26/2017,Neurosciences,International,35,15,10,1
+11/26/2017,Renal Sciences,International,18,17,14,
+11/26/2017,Obstetrics and Gynaecology & IVF,International,6,2,1,
+11/26/2017,General & Laparoscopic Surgery,International,4,3,1,
+11/26/2017,Orthopedics,International,23,4,2,
+11/26/2017,ENT and Head & Neck Surgery,International,13,9,6,
+11/26/2017,Internal Medicine,International,14,6,6,1
+11/26/2017,Organ transplantation,International,6,,,
+11/26/2017,Pulmonology,International,8,7,6,
+11/26/2017,Radiology,International,,,,
+11/26/2017,Ophthalmology,International,1,1,,
+11/26/2017,Pediatrics,International,2,4,4,
+11/26/2017,Endocrinology,International,9,4,1,
+11/26/2017,Rheumatology,International,3,3,2,
+11/26/2017,Plastic Surgery,International,,1,1,1
+11/26/2017,Reproductive sciences,International,,,,
+11/26/2017,Pathology,International,,,,
+11/26/2017,Robotic Surgery,International,,,,
+11/26/2017,Others,International,141,5,1,
+12/3/2017,Oncological sciences,International,17,10,5,
+12/3/2017,Cardiac Sciences,International,65,24,11,1
+12/3/2017,Gastroenterology and hepatology,International,33,19,12,1
+12/3/2017,Neurosciences,International,52,33,21,1
+12/3/2017,Renal Sciences,International,26,14,10,
+12/3/2017,Obstetrics and Gynaecology & IVF,International,9,5,1,
+12/3/2017,General & Laparoscopic Surgery,International,4,2,1,1
+12/3/2017,Orthopedics,International,15,10,3,
+12/3/2017,ENT and Head & Neck Surgery,International,7,4,3,1
+12/3/2017,Internal Medicine,International,10,14,7,
+12/3/2017,Organ transplantation,International,5,2,1,
+12/3/2017,Pulmonology,International,5,,,
+12/3/2017,Radiology,International,1,,,
+12/3/2017,Ophthalmology,International,2,,,
+12/3/2017,Pediatrics,International,,,,
+12/3/2017,Endocrinology,International,9,9,7,
+12/3/2017,Rheumatology,International,4,4,4,
+12/3/2017,Plastic Surgery,International,3,,,
+12/3/2017,Reproductive sciences,International,,,,
+12/3/2017,Pathology,International,,,,
+12/3/2017,Robotic Surgery,International,,,,
+12/3/2017,Others,International,129,3,2,
+12/10/2017,Oncological sciences,International,24,12,7,
+12/10/2017,Cardiac Sciences,International,82,17,7,1
+12/10/2017,Gastroenterology and hepatology,International,44,28,15,
+12/10/2017,Neurosciences,International,39,20,9,
+12/10/2017,Renal Sciences,International,32,10,6,
+12/10/2017,Obstetrics and Gynaecology & IVF,International,15,7,2,
+12/10/2017,General & Laparoscopic Surgery,International,1,1,1,
+12/10/2017,Orthopedics,International,31,20,12,
+12/10/2017,ENT and Head & Neck Surgery,International,14,5,3,
+12/10/2017,Internal Medicine,International,18,8,6,
+12/10/2017,Organ transplantation,International,,1,,
+12/10/2017,Pulmonology,International,10,4,4,
+12/10/2017,Radiology,International,,,,
+12/10/2017,Ophthalmology,International,4,1,,
+12/10/2017,Pediatrics,International,2,,,
+12/10/2017,Endocrinology,International,10,8,7,1
+12/10/2017,Rheumatology,International,12,3,3,
+12/10/2017,Plastic Surgery,International,2,,,
+12/10/2017,Reproductive sciences,International,,,,
+12/10/2017,Pathology,International,,,,
+12/10/2017,Robotic Surgery,International,,,,
+12/10/2017,Others,International,92,2,2,
+12/17/2017,Oncological sciences,International,19,15,8,2
+12/17/2017,Cardiac Sciences,International,68,20,10,
+12/17/2017,Gastroenterology and hepatology,International,19,22,11,1
+12/17/2017,Neurosciences,International,48,33,17,
+12/17/2017,Renal Sciences,International,30,20,12,
+12/17/2017,Obstetrics and Gynaecology & IVF,International,18,15,8,
+12/17/2017,General & Laparoscopic Surgery,International,9,1,,
+12/17/2017,Orthopedics,International,25,10,6,
+12/17/2017,ENT and Head & Neck Surgery,International,9,11,8,1
+12/17/2017,Internal Medicine,International,15,6,4,
+12/17/2017,Organ transplantation,International,4,1,,
+12/17/2017,Pulmonology,International,8,4,3,
+12/17/2017,Radiology,International,,1,,
+12/17/2017,Ophthalmology,International,1,2,1,
+12/17/2017,Pediatrics,International,2,1,1,
+12/17/2017,Endocrinology,International,3,4,2,
+12/17/2017,Rheumatology,International,2,3,2,
+12/17/2017,Plastic Surgery,International,1,,,
+12/17/2017,Reproductive sciences,International,,,,
+12/17/2017,Pathology,International,,,,
+12/17/2017,Robotic Surgery,International,,,,
+12/17/2017,Others,International,67,11,8,
+12/24/2017,Oncological sciences,International,14,14,10,2
+12/24/2017,Cardiac Sciences,International,71,15,4,2
+12/24/2017,Gastroenterology and hepatology,International,29,12,9,1
+12/24/2017,Neurosciences,International,35,31,22,
+12/24/2017,Renal Sciences,International,15,18,5,1
+12/24/2017,Obstetrics and Gynaecology & IVF,International,17,10,5,
+12/24/2017,General & Laparoscopic Surgery,International,3,1,1,
+12/24/2017,Orthopedics,International,27,15,6,1
+12/24/2017,ENT and Head & Neck Surgery,International,8,12,3,1
+12/24/2017,Internal Medicine,International,16,16,11,
+12/24/2017,Organ transplantation,International,2,,,
+12/24/2017,Pulmonology,International,4,3,1,
+12/24/2017,Radiology,International,,,,
+12/24/2017,Ophthalmology,International,2,,1,
+12/24/2017,Pediatrics,International,3,2,1,
+12/24/2017,Endocrinology,International,3,4,1,
+12/24/2017,Rheumatology,International,9,,2,
+12/24/2017,Plastic Surgery,International,,,,
+12/24/2017,Reproductive sciences,International,,,,
+12/24/2017,Pathology,International,,,,
+12/24/2017,Robotic Surgery,International,,,,
+12/24/2017,Others,International,44,3,2,
+12/31/2017,Oncological sciences,International,21,6,2,1
+12/31/2017,Cardiac Sciences,International,47,8,4,2
+12/31/2017,Gastroenterology and hepatology,International,39,12,4,
+12/31/2017,Neurosciences,International,37,20,12,1
+12/31/2017,Renal Sciences,International,32,11,9,
+12/31/2017,Obstetrics and Gynaecology & IVF,International,14,10,8,
+12/31/2017,General & Laparoscopic Surgery,International,6,,,
+12/31/2017,Orthopedics,International,20,9,5,
+12/31/2017,ENT and Head & Neck Surgery,International,4,4,3,
+12/31/2017,Internal Medicine,International,13,17,9,
+12/31/2017,Organ transplantation,International,7,2,1,
+12/31/2017,Pulmonology,International,3,1,,
+12/31/2017,Radiology,International,,,,
+12/31/2017,Ophthalmology,International,6,4,,
+12/31/2017,Pediatrics,International,3,5,,
+12/31/2017,Endocrinology,International,7,1,,
+12/31/2017,Rheumatology,International,7,4,2,
+12/31/2017,Plastic Surgery,International,2,,,
+12/31/2017,Reproductive sciences,International,,,,
+12/31/2017,Pathology,International,,,,
+12/31/2017,Robotic Surgery,International,,,,
+12/31/2017,Others,International,91,2,3,
+1/7/2018,Oncological sciences,International,17,9,3,
+1/7/2018,Cardiac Sciences,International,46,9,5,
+1/7/2018,Gastroenterology and hepatology,International,27,17,9,
+1/7/2018,Neurosciences,International,46,33,14,1
+1/7/2018,Renal Sciences,International,29,7,4,
+1/7/2018,Obstetrics and Gynaecology & IVF,International,16,14,8,
+1/7/2018,General & Laparoscopic Surgery,International,6,3,,
+1/7/2018,Orthopedics,International,20,13,4,
+1/7/2018,ENT and Head & Neck Surgery,International,11,4,2,
+1/7/2018,Internal Medicine,International,14,8,4,
+1/7/2018,Organ transplantation,International,7,1,1,
+1/7/2018,Pulmonology,International,4,8,2,
+1/7/2018,Radiology,International,,,,
+1/7/2018,Ophthalmology,International,5,,,
+1/7/2018,Pediatrics,International,2,2,1,
+1/7/2018,Endocrinology,International,13,5,4,
+1/7/2018,Rheumatology,International,1,1,1,
+1/7/2018,Plastic Surgery,International,1,1,1,
+1/7/2018,Reproductive sciences,International,,,,
+1/7/2018,Pathology,International,,,,
+1/7/2018,Robotic Surgery,International,1,1,,
+1/7/2018,Others,International,118,2,2,
+1/14/2018,Oncological sciences,International,23,5,3,1
+1/14/2018,Cardiac Sciences,International,88,7, ,1
+1/14/2018,Gastroenterology and hepatology,International,42,17,8,
+1/14/2018,Neurosciences,International,39,21,9,
+1/14/2018,Renal Sciences,International,19,10,2,
+1/14/2018,Obstetrics and Gynaecology & IVF,International,13,5,2,
+1/14/2018,General & Laparoscopic Surgery,International,4,2,1,1
+1/14/2018,Orthopedics,International,28,8,2,2
+1/14/2018,ENT and Head & Neck Surgery,International,18,8,5,
+1/14/2018,Internal Medicine,International,16,2,2,
+1/14/2018,Organ transplantation,International,2,2,2,
+1/14/2018,Pulmonology,International,2,1,1,
+1/14/2018,Radiology,International,1, , ,
+1/14/2018,Ophthalmology,International,4,4,4,
+1/14/2018,Pediatrics,International, , , ,
+1/14/2018,Endocrinology,International,3,4,1,
+1/14/2018,Rheumatology,International,5,6,2,
+1/14/2018,Plastic Surgery,International,3, , ,
+1/14/2018,Reproductive sciences,International,,,,
+1/14/2018,Pathology,International,,,,
+1/14/2018,Robotic Surgery,International,1,,,
+1/14/2018,Others,International,137,4,2, 
+1/21/2018,Oncological sciences,International,16,10,5,
+1/21/2018,Cardiac Sciences,International,98,15,7,2
+1/21/2018,Gastroenterology and hepatology,International,24,16,7,
+1/21/2018,Neurosciences,International,36,16,8,
+1/21/2018,Renal Sciences,International,25,12,8,2
+1/21/2018,Obstetrics and Gynaecology & IVF,International,12,5,3,
+1/21/2018,General & Laparoscopic Surgery,International,8,,,
+1/21/2018,Orthopedics,International,27,10,2,
+1/21/2018,ENT and Head & Neck Surgery,International,9,8,4,1
+1/21/2018,Internal Medicine,International,6,2,1,
+1/21/2018,Organ transplantation,International,,,,
+1/21/2018,Pulmonology,International,5,5,1,
+1/21/2018,Radiology,International, ,1, ,
+1/21/2018,Ophthalmology,International,8,3,1,
+1/21/2018,Pediatrics,International,1,2,,
+1/21/2018,Endocrinology,International,4, ,,
+1/21/2018,Rheumatology,International,3,2,2,
+1/21/2018,Plastic Surgery,International,1,,,
+1/21/2018,Reproductive sciences,International,,,,
+1/21/2018,Pathology,International,,,,
+1/21/2018,Robotic Surgery,International,,,,
+1/21/2018,Others,International,297,7, ,
+1/28/2018,Oncological sciences,International,33,6,5,2
+1/28/2018,Cardiac Sciences,International,89,5,3,4
+1/28/2018,Gastroenterology and hepatology,International,49,15,12, 
+1/28/2018,Neurosciences,International,33,18,11,2
+1/28/2018,Renal Sciences,International,21,8,5,1
+1/28/2018,Obstetrics and Gynaecology & IVF,International,9,5,3,
+1/28/2018,General & Laparoscopic Surgery,International,4,1,1,
+1/28/2018,Orthopedics,International,13,6,4,
+1/28/2018,ENT and Head & Neck Surgery,International,10,6,5,
+1/28/2018,Internal Medicine,International,18,10,5,
+1/28/2018,Organ transplantation,International,3,2,2,
+1/28/2018,Pulmonology,International,6,3,1,
+1/28/2018,Radiology,International,2, , ,
+1/28/2018,Ophthalmology,International,3,1, ,
+1/28/2018,Pediatrics,International,6, , ,
+1/28/2018,Endocrinology,International,6,1,1,
+1/28/2018,Rheumatology,International,1, ,,
+1/28/2018,Plastic Surgery,International,2,1,,
+1/28/2018,Reproductive sciences,International,,,,
+1/28/2018,Pathology,International,,,,
+1/28/2018,Robotic Surgery,International,,,,
+1/28/2018,Others,International,117,11,2,
+2/4/2018,Oncological sciences,International,16,10,4, 
+2/4/2018,Cardiac Sciences,International,128,18,11,4
+2/4/2018,Gastroenterology and hepatology,International,39,29,20,
+2/4/2018,Neurosciences,International,51,17,6,
+2/4/2018,Renal Sciences,International,34,15,5,1
+2/4/2018,Obstetrics and Gynaecology & IVF,International,21,6,4,
+2/4/2018,General & Laparoscopic Surgery,International,6, , ,
+2/4/2018,Orthopedics,International,21,4,1,
+2/4/2018,ENT and Head & Neck Surgery,International,7,5,3,
+2/4/2018,Internal Medicine,International,21,9,5,1
+2/4/2018,Organ transplantation,International,3,1, ,
+2/4/2018,Pulmonology,International,9,6,4,
+2/4/2018,Radiology,International, , , ,
+2/4/2018,Ophthalmology,International,7,1, ,
+2/4/2018,Pediatrics,International,1,2,2,
+2/4/2018,Endocrinology,International,13,9,5,
+2/4/2018,Rheumatology,International,9,,,
+2/4/2018,Plastic Surgery,International,3,,,
+2/4/2018,Reproductive sciences,International,,,,
+2/4/2018,Pathology,International,,,,
+2/4/2018,Robotic Surgery,International,,,,
+2/4/2018,Others,International,179,4,3,
+2/11/2018,Oncological sciences,International,20,4, ,
+2/11/2018,Cardiac Sciences,International,97,15,7,1
+2/11/2018,Gastroenterology and hepatology,International,36,23,13,
+2/11/2018,Neurosciences,International,49,31,15,2
+2/11/2018,Renal Sciences,International,25,17,10,4
+2/11/2018,Obstetrics and Gynaecology & IVF,International,12,7,1,
+2/11/2018,General & Laparoscopic Surgery,International,6, , ,
+2/11/2018,Orthopedics,International,32,10,8,
+2/11/2018,ENT and Head & Neck Surgery,International,9,4,2,
+2/11/2018,Internal Medicine,International,17,11,8,
+2/11/2018,Organ transplantation,International,4,1, ,
+2/11/2018,Pulmonology,International,7,4,3,
+2/11/2018,Radiology,International,,,,
+2/11/2018,Ophthalmology,International,4,4,1,
+2/11/2018,Pediatrics,International,1,,,
+2/11/2018,Endocrinology,International,1,6,4,
+2/11/2018,Rheumatology,International,6,8,4,
+2/11/2018,Plastic Surgery,International,,,,
+2/11/2018,Reproductive sciences,International,,,,
+2/11/2018,Pathology,International,,,,
+2/11/2018,Robotic Surgery,International,,,,
+2/11/2018,Others,International,77,4,2,
+2/18/2018,Oncological sciences,International,19,6,1,
+2/18/2018,Cardiac Sciences,International,113,19,10,
+2/18/2018,Gastroenterology and hepatology,International,46,25,10,
+2/18/2018,Neurosciences,International,52,32,17,
+2/18/2018,Renal Sciences,International,21,18,7,1
+2/18/2018,Obstetrics and Gynaecology & IVF,International,26,16,12,
+2/18/2018,General & Laparoscopic Surgery,International,4,6,2,1
+2/18/2018,Orthopedics,International,47,27,18,
+2/18/2018,ENT and Head & Neck Surgery,International,10,9,4,1
+2/18/2018,Internal Medicine,International,10,9,8,
+2/18/2018,Organ transplantation,International,1, , ,
+2/18/2018,Pulmonology,International,10,8,4,1
+2/18/2018,Radiology,International, , , ,
+2/18/2018,Ophthalmology,International,5,3,1,
+2/18/2018,Pediatrics,International,2,3,2,
+2/18/2018,Endocrinology,International,7,2,1,
+2/18/2018,Rheumatology,International,1,2,,
+2/18/2018,Plastic Surgery,International,,,,
+2/18/2018,Reproductive sciences,International,,,,
+2/18/2018,Pathology,International,,,,
+2/18/2018,Robotic Surgery,International,,,,
+2/18/2018,Others,International,83,3,3,
+2/25/2018,Oncological sciences,International,22,9,2,
+2/25/2018,Cardiac Sciences,International,157,7,2,
+2/25/2018,Gastroenterology and hepatology,International,51,20,10,1
+2/25/2018,Neurosciences,International,61,25,14,
+2/25/2018,Renal Sciences,International,26,4,0,
+2/25/2018,Obstetrics and Gynaecology & IVF,International,10,2,2,
+2/25/2018,General & Laparoscopic Surgery,International,4,2,1,
+2/25/2018,Orthopedics,International,23,9,2,
+2/25/2018,ENT and Head & Neck Surgery,International,13,3,2,
+2/25/2018,Internal Medicine,International,16,4,2,
+2/25/2018,Organ transplantation,International,6, , ,
+2/25/2018,Pulmonology,International,4,6,2,
+2/25/2018,Radiology,International,1,,,
+2/25/2018,Ophthalmology,International,3,3,,
+2/25/2018,Pediatrics,International,3,1,,
+2/25/2018,Endocrinology,International,12,1,1,
+2/25/2018,Rheumatology,International,2,1,,
+2/25/2018,Plastic Surgery,International,1, ,,
+2/25/2018,Reproductive sciences,International,1, ,,
+2/25/2018,Pathology,International,,,,
+2/25/2018,Robotic Surgery,International,,, ,
+2/25/2018,Others,International,74,4,1,
+3/4/2018,Oncological sciences,International,24,11,5,1
+3/4/2018,Cardiac Sciences,International,142,11,4,1
+3/4/2018,Gastroenterology and hepatology,International,44,19,16,
+3/4/2018,Neurosciences,International,76,26,17,1
+3/4/2018,Renal Sciences,International,31,16,7,1
+3/4/2018,Obstetrics and Gynaecology & IVF,International,15,8,5,
+3/4/2018,General & Laparoscopic Surgery,International,10,3,2,
+3/4/2018,Orthopedics,International,37,4,1,
+3/4/2018,ENT and Head & Neck Surgery,International,14,3,1,1
+3/4/2018,Internal Medicine,International,31,16,9,
+3/4/2018,Organ transplantation,International,4, ,,
+3/4/2018,Pulmonology,International,10, ,,
+3/4/2018,Radiology,International, , ,,
+3/4/2018,Ophthalmology,International,3,1,1,
+3/4/2018,Pediatrics,International,2, , ,
+3/4/2018,Endocrinology,International,10,10,7,
+3/4/2018,Rheumatology,International,5, ,,
+3/4/2018,Plastic Surgery,International,1, ,,
+3/4/2018,Reproductive sciences,International, , , ,
+3/4/2018,Pathology,International,, , ,
+3/4/2018,Robotic Surgery,International, , , ,
+3/4/2018,Others,International,95,4,2,

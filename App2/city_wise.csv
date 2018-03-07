@@ -1,0 +1,241 @@
+Date,City_Name,Category,Request,Booking,OPD,IPD
+11/26/2017,Bangalore,Domestic,358,307,122,53
+11/26/2017,Mumbai,Domestic,373,238,129,20
+11/26/2017,Delhi NCR,Domestic,1011,539,275,61
+11/26/2017,Kolkata,Domestic,637,471,210,26
+11/26/2017,Hyderabad,Domestic,538,438,225,45
+11/26/2017,Chennai,Domestic,181,107,46,6
+11/26/2017,Ranchi,Domestic,53,31,13,1
+11/26/2017,Others,Domestic,51,3,,
+12/3/2017,Bangalore,Domestic,400,275,157,47
+12/3/2017,Mumbai,Domestic,369,222,111,14
+12/3/2017,Delhi NCR,Domestic,1120,628,343,62
+12/3/2017,Kolkata,Domestic,632,435,206,25
+12/3/2017,Hyderabad,Domestic,606,446,214,62
+12/3/2017,Chennai,Domestic,173,115,39,4
+12/3/2017,Ranchi,Domestic,51,33,10,
+12/3/2017,Others,Domestic,51,53,59,
+12/10/2017,Bangalore,Domestic,350,244,63,28
+12/10/2017,Mumbai,Domestic,419,226,232,36
+12/10/2017,Delhi NCR,Domestic,1118,564,92,73
+12/10/2017,Kolkata,Domestic,679,398,301,26
+12/10/2017,Hyderabad,Domestic,520,394,187,53
+12/10/2017,Chennai,Domestic,161,129,76,4
+12/10/2017,Ranchi,Domestic,72,32,,1
+12/10/2017,Others,Domestic,49,48,59,
+12/17/2017,Bangalore,Domestic,379,294,111,33
+12/17/2017,Mumbai,Domestic,424,258,149,24
+12/17/2017,Delhi NCR,Domestic,1196,644,360,78
+12/17/2017,Kolkata,Domestic,743,495,224,24
+12/17/2017,Hyderabad,Domestic,528,434,199,59
+12/17/2017,Chennai,Domestic,208,121,48,8
+12/17/2017,Ranchi,Domestic,73,54,15,2
+12/17/2017,Others,Domestic,41,17,,1
+12/24/2017,Bangalore,Domestic,338,230,83,26
+12/24/2017,Mumbai,Domestic,434,253,114,21
+12/24/2017,Delhi NCR,Domestic,1290,559,230,45
+12/24/2017,Kolkata,Domestic,743,374,206,11
+12/24/2017,Hyderabad,Domestic,562,407,163,44
+12/24/2017,Chennai,Domestic,168,92,34,9
+12/24/2017,Ranchi,Domestic,82,51,23,3
+12/24/2017,Others,Domestic,69,184,14,
+12/31/2017,Bangalore,Domestic,359,244,73,20
+12/31/2017,Mumbai,Domestic,392,261,81,19
+12/31/2017,Delhi NCR,Domestic,940,549,235,35
+12/31/2017,Kolkata,Domestic,658,442,139,12
+12/31/2017,Hyderabad,Domestic,549,403,133,38
+12/31/2017,Chennai,Domestic,153,67,24,3
+12/31/2017,Ranchi,Domestic,57,39,8,1
+12/31/2017,Others,Domestic,46,168,,7
+1/7/2018,Bangalore,Domestic,384,306,110,26
+1/7/2018,Mumbai,Domestic,455,280,82,14
+1/7/2018,Delhi NCR,Domestic,1075,571,175,43
+1/7/2018,Kolkata,Domestic,660,463,120,13
+1/7/2018,Hyderabad,Domestic,614,445,135,34
+1/7/2018,Chennai,Domestic,225,109,27,2
+1/7/2018,Ranchi,Domestic,59,44,8,
+1/7/2018,Others,Domestic,45,2,100,
+1/14/2018,Bangalore,Domestic,538,331,76,16
+1/14/2018,Mumbai,Domestic,446,303,73,9
+1/14/2018,Delhi NCR,Domestic,1027,611,186,43
+1/14/2018,Kolkata,Domestic,505,394,104,11
+1/14/2018,Hyderabad,Domestic,695,504,115,40
+1/14/2018,Chennai,Domestic,360,184,35,5
+1/14/2018,Ranchi,Domestic,76,29,14,1
+1/14/2018,Others,Domestic,48,,,
+1/21/2018,Bangalore,Domestic,620,338,82,12
+1/21/2018,Mumbai,Domestic,459,243,58,37
+1/21/2018,Delhi NCR,Domestic,1355,591,178,8
+1/21/2018,Kolkata,Domestic,491,232,72,35
+1/21/2018,Hyderabad,Domestic,670,550,103,3
+1/21/2018,Chennai,Domestic,371,229,30,1
+1/21/2018,Ranchi,Domestic,79,48,12, 
+1/21/2018,Others,Domestic,665,3,2,25
+1/28/2018,Bangalore,Domestic,636,457,162,32
+1/28/2018,Mumbai,Domestic,381,284,96,23
+1/28/2018,Delhi NCR,Domestic,1228,712,286,47
+1/28/2018,Kolkata,Domestic,413,258,107,8
+1/28/2018,Hyderabad,Domestic,619,490,130,42
+1/28/2018,Chennai,Domestic,402,274,39,7
+1/28/2018,Ranchi,Domestic,67,44,15,
+1/28/2018,Others,Domestic,201,3,1, 
+2/4/2018,Bangalore,Domestic,601,443,135,23
+2/4/2018,Mumbai,Domestic,442,289,84,12
+2/4/2018,Delhi NCR,Domestic,1192,668,223,49
+2/4/2018,Kolkata,Domestic,559,374,114,15
+2/4/2018,Hyderabad,Domestic,754,536,101,36
+2/4/2018,Chennai,Domestic,459,286,48,9
+2/4/2018,Ranchi,Domestic,70,45,9,1
+2/4/2018,Others,Domestic,158,13,4, 
+2/11/2018,Bangalore,Domestic,618,438,183,38
+2/11/2018,Mumbai,Domestic,367,231,65,20
+2/11/2018,Delhi NCR,Domestic,1235,716,298,46
+2/11/2018,Kolkata,Domestic,543,328,141,13
+2/11/2018,Hyderabad,Domestic,564,395,116,49
+2/11/2018,Chennai,Domestic,466,292,112,14
+2/11/2018,Ranchi,Domestic,74,41,15,4
+2/11/2018,Others,Domestic,140,17,5,1
+2/18/2018,Bangalore,Domestic,717,444,177,42
+2/18/2018,Mumbai,Domestic,390,225,68,12
+2/18/2018,Delhi NCR,Domestic,1460,746,230,37
+2/18/2018,Kolkata,Domestic,626,384,140,19
+2/18/2018,Hyderabad,Domestic,663,446,135,34
+2/18/2018,Chennai,Domestic,417,295,69,17
+2/18/2018,Ranchi,Domestic,81,57,13,3
+2/18/2018,Others,Domestic,169,33,8,2
+2/25/2018,Bangalore,Domestic,772,488,157,35
+2/25/2018,Mumbai,Domestic,337,217,55,7
+2/25/2018,Delhi NCR,Domestic,1383,673,185,34
+2/25/2018,Kolkata,Domestic,628,356,88,9
+2/25/2018,Hyderabad,Domestic,591,468,123,25
+2/25/2018,Chennai,Domestic,465,285,74,22
+2/25/2018,Ranchi,Domestic,64,42,7, 
+2/25/2018,Others,Domestic,213,54,16, 
+3/4/2018,Bangalore,Domestic,801,514,175,46
+3/4/2018,Mumbai,Domestic,415,228,51,17
+3/4/2018,Delhi NCR,Domestic,1579,877,254,48
+3/4/2018,Kolkata,Domestic,800,505,181,17
+3/4/2018,Hyderabad,Domestic,606,483,143,37
+3/4/2018,Chennai,Domestic,535,335,114,18
+3/4/2018,Ranchi,Domestic,78,56,17,5
+3/4/2018,Others,Domestic,191,59,20, 
+11/26/2017,Bangalore,International,45,5,1,
+11/26/2017,Mumbai,International,9,1,,
+11/26/2017,Delhi NCR,International,85,51,42,2
+11/26/2017,Kolkata,International,122,59,30,2
+11/26/2017,Hyderabad,International,18,5,1,
+11/26/2017,Chennai,International,26,5,3,
+11/26/2017,Ranchi,International,,,,
+11/26/2017,Others,International,96,,,
+12/3/2017,Bangalore,International,28,10,2,1
+12/3/2017,Mumbai,International,8,4,1,
+12/3/2017,Delhi NCR,International,55,47,37,3
+12/3/2017,Kolkata,International,83,64,34,1
+12/3/2017,Hyderabad,International,6,7,3,
+12/3/2017,Chennai,International,20,21,11,
+12/3/2017,Ranchi,International,,,,
+12/3/2017,Others,International,196,,,
+12/10/2017,Bangalore,International,45,4,2,
+12/10/2017,Mumbai,International,18,9,6,
+12/10/2017,Delhi NCR,International,88,37,23,1
+12/10/2017,Kolkata,International,173,70,36,1
+12/10/2017,Hyderabad,International,5,2,,
+12/10/2017,Chennai,International,39,25,17,
+12/10/2017,Ranchi,International,,,,
+12/10/2017,Others,International,64,,,
+12/17/2017,Bangalore,International,51,3,,
+12/17/2017,Mumbai,International,9,8,5,1
+12/17/2017,Delhi NCR,International,87,58,34,1
+12/17/2017,Kolkata,International,127,69,37,1
+12/17/2017,Hyderabad,International,11,4,3,1
+12/17/2017,Chennai,International,36,38,22,
+12/17/2017,Ranchi,International,,,,
+12/17/2017,Others,International,27,,,
+12/24/2017,Bangalore,International,32,6,1,1
+12/24/2017,Mumbai,International,2,2,,2
+12/24/2017,Delhi NCR,International,40,46,37,3
+12/24/2017,Kolkata,International,95,80,32,1
+12/24/2017,Hyderabad,International,7,5,4,
+12/24/2017,Chennai,International,24,16,10,1
+12/24/2017,Ranchi,International,,,,
+12/24/2017,Others,International,102,1,,
+12/31/2017,Bangalore,International,19,1,1,1
+12/31/2017,Mumbai,International,3,3,,
+12/31/2017,Delhi NCR,International,19,41,25,2
+12/31/2017,Kolkata,International,36,35,10,
+12/31/2017,Hyderabad,International,3,3,2,
+12/31/2017,Chennai,International,15,33,23,1
+12/31/2017,Ranchi,International,,,,
+12/31/2017,Others,International,264,,1,
+1/7/2018,Bangalore,International,38,4,,
+1/7/2018,Mumbai,International,12,62,2,
+1/7/2018,Delhi NCR,International,105,38,38,
+1/7/2018,Kolkata,International,109,8,8,1
+1/7/2018,Hyderabad,International,12,24,2,
+1/7/2018,Chennai,International,38,,14,
+1/7/2018,Ranchi,International,,,,
+1/7/2018,Others,International,70,2,1,
+1/14/2018,Bangalore,International,58,6,1,
+1/14/2018,Mumbai,International,19,2,2,
+1/14/2018,Delhi NCR,International,103,41,29,3
+1/14/2018,Kolkata,International,96,27,6, 
+1/14/2018,Hyderabad,International,15,6,1,1
+1/14/2018,Chennai,International,66,23,7,1
+1/14/2018,Ranchi,International,1,,,
+1/14/2018,Others,International,90,1,,
+1/21/2018,Bangalore,International,61,3,2,1
+1/21/2018,Mumbai,International,19,4,3,1
+1/21/2018,Delhi NCR,International,89,40,21,2
+1/21/2018,Kolkata,International,103,19,3,
+1/21/2018,Hyderabad,International,9,6,3,
+1/21/2018,Chennai,International,55,42,17,1
+1/21/2018,Ranchi,International,,,,
+1/21/2018,Others,International,244,,,
+1/28/2018,Bangalore,International,89,2,2,2
+1/28/2018,Mumbai,International,6,4,2,2
+1/28/2018,Delhi NCR,International,96,49,33, 
+1/28/2018,Kolkata,International,69,18,7,1
+1/28/2018,Hyderabad,International,5,2,1, 
+1/28/2018,Chennai,International,90,24,15,4
+1/28/2018,Ranchi,International,,,,
+1/28/2018,Others,International,70,,,
+2/4/2018,Bangalore,International,84,4,,1
+2/4/2018,Mumbai,International,8,6,,
+2/4/2018,Delhi NCR,International,137,60,43,2
+2/4/2018,Kolkata,International,129,25,7,
+2/4/2018,Hyderabad,International,21,9,9,2
+2/4/2018,Chennai,International,93,32,14,1
+2/4/2018,Ranchi,International, , ,,
+2/4/2018,Others,International,96, ,,
+2/11/2018,Bangalore,International,64,6,1,1
+2/11/2018,Mumbai,International,10, , ,
+2/11/2018,Delhi NCR,International,87,43,27,1
+2/11/2018,Kolkata,International,121,40,13,
+2/11/2018,Hyderabad,International,14,8,7,1
+2/11/2018,Chennai,International,89,52,30,4
+2/11/2018,Ranchi,International,1,,,
+2/11/2018,Others,International,17,,,
+2/18/2018,Bangalore,International,67,5,2,
+2/18/2018,Mumbai,International,10,2,1,
+2/18/2018,Delhi NCR,International,116,68,53,3
+2/18/2018,Kolkata,International,125,44,18,
+2/18/2018,Hyderabad,International,18,8,4,
+2/18/2018,Chennai,International,81,61,22,1
+2/18/2018,Ranchi,International,,,,
+2/18/2018,Others,International,40,,,
+2/25/2018,Bangalore,International,119,3,1,
+2/25/2018,Mumbai,International,11,4, ,
+2/25/2018,Delhi NCR,International,87,37,23,1
+2/25/2018,Kolkata,International,154,13,2,
+2/25/2018,Hyderabad,International,12,2,1,
+2/25/2018,Chennai,International,79,42,14,
+2/25/2018,Ranchi,International, , , ,
+2/25/2018,Others,International,28,,,
+3/4/2018,Bangalore,International,121,3, ,
+3/4/2018,Mumbai,International,10,5,1,1
+3/4/2018,Delhi NCR,International,109,58,42,1
+3/4/2018,Kolkata,International,129,24,14,1
+3/4/2018,Hyderabad,International,11,7,3,
+3/4/2018,Chennai,International,123,35,17,2
+3/4/2018,Ranchi,International, , , ,
+3/4/2018,Others,International,51, , ,
