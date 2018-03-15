@@ -28,9 +28,6 @@ shinyUI(
       br(),
       br(),
       br(),
-      br(),
-      br(),
-      br(),
       h4(div("CITY_WISE PLOT",style="color:blue")),
       selectInput("City","1. Please select a City:",choices = levels(df2$City_Name),selected = "Mumbai"),
       radioButtons("Category","2. Please select a Type:",choices = levels(df2$Category),selected = "International")
