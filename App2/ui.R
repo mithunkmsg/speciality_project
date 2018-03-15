@@ -28,20 +28,42 @@ shinyUI(
       br(),
       br(),
       br(),
+      br(),
+      br(),
+      br(),
+      br(),
+      br(),
+      br(),
+      br(),
+      br(),
+      br(),
+      br(),
+      br(),
+      br(),
+      br(),
+      br(),
+      br(),
+      br(),
       h4(div("CITY_WISE PLOT",style="color:blue")),
       selectInput("City","1. Please select a City:",choices = levels(df2$City_Name),selected = "Mumbai"),
-      radioButtons("Category","2. Please select a Type:",choices = levels(df2$Category),selected = "International")
+      radioButtons("Category","2. Please select a Type:",choices = levels(df2$Category),selected = "International"),
+      br(),
+      br(),
+      br(),
+      br(),
+      br(),
+      br()
+    
     
       ),
     mainPanel(
        
-       h4(dygraphOutput("dygraph",height = 200)),
+       h4(dygraphOutput("dygraph")),
+       h4(textOutput("legendDivID"), title = "Legend", collapsible = F, width=2),
        br(),
        br(),
-       br(),
-       br(),
-       br(),
-       h4(dygraphOutput("dygraph2",height = 200))    
+      
+       h4(dygraphOutput("dygraph2"))   
        )
 )
 )
