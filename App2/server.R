@@ -71,7 +71,7 @@ shinyServer(
         dySeries("V2",label="Booking",color="green",fillGraph = F, strokeWidth = 3, drawPoints = T,pointSize=3)%>%
         dySeries("V3",label="OPD",color="purple",fillGraph = F, strokeWidth = 3, drawPoints = T,pointSize=3)%>%
         dySeries("V4",label="IPD",color="orange",fillGraph = F, strokeWidth = 3, drawPoints = T,pointSize=3)%>%
-        dyLegend(show="always",width="600")
+        dyLegend(labelsDiv = "legendDivID",labelsSeparateLines = T)
         
              })
     
@@ -82,7 +82,8 @@ shinyServer(
         dySeries("V2",label="Booking",color="green",fillGraph = F, strokeWidth = 3, drawPoints = T,pointSize=3)%>%
         dySeries("V3",label="OPD",color="purple",fillGraph = F, strokeWidth = 3, drawPoints = T,pointSize=3)%>%
         dySeries("V4",label="IPD",color="orange",fillGraph = F, strokeWidth = 3, drawPoints = T,pointSize=3)%>%
-        dyLegend(show="always",width="600")
+        dyLegend(labelsDiv = "legendDivID",labelsSeparateLines = T)
+        
       
     })
       
