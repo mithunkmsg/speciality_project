@@ -63,7 +63,21 @@ shinyUI(
        br(),
        br(),
       
-       h4(dygraphOutput("dygraph2"))   
+       h4(dygraphOutput("dygraph2")),
+        tabPanel("Analysis",fluidRow(
+         splitLayout(cellWidths = c("50%", "50%"), plotOutput("plotgraph1"), plotOutput("plotgraph2"),plotOutput("plotgraph3"), plotOutput("plotgraph4"))
+       ),
+       fluidRow(
+         splitLayout(cellWidths = c("50%", "50%"), verbatimTextOutput("text1"), verbatimTextOutput("text2"),verbatimTextOutput("text3"), verbatimTextOutput("text4"))
+       ),
+       fluidRow(
+         splitLayout(cellWidths = c("50%", "50%"), plotOutput("plotgraph5"), plotOutput("plotgraph6"),plotOutput("plotgraph7"), plotOutput("plotgraph8"))
+       ),
+       fluidRow(
+         splitLayout(cellWidths = c("50%", "50%"), verbatimTextOutput("text5"), verbatimTextOutput("text6"),verbatimTextOutput("text7"), verbatimTextOutput("text8"))
+       )
+       ),
+       tabPanel("Forecast",plotOutput("forcast")))
        )
 )
 )
