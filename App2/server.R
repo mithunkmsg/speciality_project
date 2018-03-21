@@ -86,6 +86,94 @@ shinyServer(
         
       
     })
+    
+    output$plotgraph1<-renderPlot({
+      
+       
+      hist(selected1()$n,col = "red",main = paste("Histogram of Request for",input$Speciality,sep = " "),xlab = "Range",ylab = "Number")
+      
+    })
+    
+    br()
+    
+    output$plotgraph2<-renderPlot({
+      
+      hist(selected2()$n,col = "green",main = paste("Histogram of Booking for",input$Speciality,sep = " "),xlab = "Range",ylab = "Number")
+      
+    })
+      
+    output$plotgraph3<-renderPlot({
+      
+      hist(selected3()$n,col = "purple",main = paste("Histogram of OPD for",input$Speciality,sep = " "),xlab = "Range",ylab = "Number")
+      
+    })
+    
+    output$plotgraph4<-renderPlot({
+      
+      hist(selected4()$n,col = "orange",main = paste("Histogram of IPD for",input$Speciality,sep = " "),xlab = "Range",ylab = "Number")
+      
+    })
+    
+    output$text1<-renderPrint({
+      summary(selected1()$n)
+    })
+    
+    output$text2<-renderPrint({
+      summary(selected2()$n)
+    })
+    
+    output$text3<-renderPrint({
+      summary(selected3()$n)
+    })
+    
+    output$text4<-renderPrint({
+      summary(selected4()$n)
+    })
+    
+    output$plotgraph5<-renderPlot({
+      
+      
+      hist(selected5()$n,col = "red",main = paste("Histogram of Request for",input$Speciality,sep = " "),xlab = "Range",ylab = "Number")
+      
+    })
+    
+    br()
+    
+    output$plotgraph6<-renderPlot({
+      
+      hist(selected6()$n,col = "green",main = paste("Histogram of Booking for",input$Speciality,sep = " "),xlab = "Range",ylab = "Number")
+      
+    })
+    
+    output$plotgraph7<-renderPlot({
+      
+      hist(selected7()$n,col = "purple",main = paste("Histogram of OPD for",input$Speciality,sep = " "),xlab = "Range",ylab = "Number")
+      
+    })
+    
+    output$plotgraph8<-renderPlot({
+      
+      hist(selected8()$n,col = "orange",main = paste("Histogram of IPD for",input$Speciality,sep = " "),xlab = "Range",ylab = "Number")
+      
+    })
+    
+    output$text5<-renderPrint({
+      summary(selected5()$n)
+    })
+    
+    output$text6<-renderPrint({
+      summary(selected6()$n)
+    })
+    
+    output$text7<-renderPrint({
+      summary(selected7()$n)
+    })
+    
+    output$text8<-renderPrint({
+      summary(selected8()$n)
+    })
+    
+    
       
     
     
